@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Video chat app built by Joseph Disraeli Omenda, feel free to use it
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
